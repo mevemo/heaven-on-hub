@@ -1,5 +1,3 @@
-# HEAV'N'N-HUB
-
 # Songs of Hans Jürgen Hawerk
 
 This repository serves as an archive for the songs of the late singer-songwriter Hans Jürgen Hawerk. Hans Jürgen Hawerk was renowned for his profound lyrics and the unique ability to tell stories and evoke emotions through his music.
